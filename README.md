@@ -2,7 +2,7 @@
 learn-RaspberryPi:
 What is the Raspberry pi? 
 Raspberry Pi is a SBC device the size of a credit card, developed by the Raspberry Pi Foundation, whose purpose is to teach computers to young children. We can say that it is a circuit board that contains things such as RAM GPIO pins on a single card.
-aspberry Pi Models
+Raspberry Pi Models
 
 As we mentioned at the beginning, Raspberry Pi is a credit card sized mini computer, but since 2012, it has introduced many models with more up-to-date hardware features for different usage areas. Let's examine these models together.
 
